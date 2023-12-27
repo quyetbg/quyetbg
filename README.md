@@ -27,7 +27,9 @@ const anmol = {
             python: ["scrapy", "selenium"]
         },
         databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Socket.IO", "selenium"]
+        misc: ["Firebase", "Socket.IO", "selenium"],
+        tools: ["visBug", "figma"],
+        skill: ["crawl data", "work with linode"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I'm developing a food delivery app using ReactNative",
