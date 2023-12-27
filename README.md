@@ -14,25 +14,24 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    code: ["Javascript", "Typescript", "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["ReactJs", "NextJs"],
+            css: ["Tailwindcss", "Ant Design", "Bootstrap", "Material UI"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["node", "express", "graphQL"],
+            python: ["scrapy", "selenium"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "Socket.IO", "selenium"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentProject: "I'm developing a food delivery app using ReactNative",
+    funFact: "Nothing is impossible in Css"
 };
 ```
 
@@ -57,19 +56,17 @@ const anmol = {
 ⌚︎ Timezone: Asia/Calcutta
 
 💬 Languages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
+JavaScript               8 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   70.01% 
 Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
 
 🔥 Editors: 
-WebStorm                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
-PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
+VsCode                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   70.81% 
+PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   10.71% 
 
 💻 Operating Systems: 
 Windows                  17 hrs 5 mins       █████████████████████████   100.0%
+or
+Ubuntu                  17 hrs 5 mins       █████████████████████████   100.0%
 
 ```
 <!--END_SECTION:waka-->
